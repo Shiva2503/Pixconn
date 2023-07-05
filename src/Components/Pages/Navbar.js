@@ -61,8 +61,15 @@ function PixconnNavbar() {
     setActiveMenu(location.pathname);
   }, [location.pathname]);
 
+  const navbarContainerStyle = {
+    position: 'absolute',
+    width: '100%',
+    zIndex: 2,
+    backgroundColor: activeMenu === '/' ? 'transparent' : 'black'
+  };
+
   return (
-    <div className="container-fluid navbar-container">
+    <div style={navbarContainerStyle} className="container-fluid">
       <Navbar dark expand="lg">
         <NavbarBrand className="navbar-brand-custom" href="/">
           <img src={require('../Images/Pixconn-Logo.png')} alt="Logo" />
