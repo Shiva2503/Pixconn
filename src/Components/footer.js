@@ -12,10 +12,10 @@ const Footer = () => {
             <div className='d-flex justify-content-center footer-logo mt-5'>
             <img src={require('./Images/footer-logo.png')} alt='footer-logo'/></div>
             <div className='d-flex justify-content-center mt-5 gap-5'>
-             <p className='foot-nav-item'><a href=''>Home</a></p>
-             <a href=''><p className='foot-nav-item'>About</p></a>
-             <a href=''><p className='foot-nav-item'>Service</p></a>
-             <a href=''><p className='foot-nav-item'>Contact</p></a>
+              <p className='foot-nav-item'>Home</p>
+              <p className='foot-nav-item'>About</p>
+              <p className='foot-nav-item'>Service</p>
+              <p className='foot-nav-item'>Contact</p>
             </div>
             <div className='d-flex justify-content-center mt-3 gap-4' >
                             <a href='/'><img src={require('./Images/facebool.png')} alt='fb' /></a>
