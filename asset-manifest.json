@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pixconn/static/css/main.5e5b6e40.css",
+    "main.js": "/Pixconn/static/js/main.5da0f581.js",
+    "static/media/people-blur.png": "/Pixconn/static/media/people-blur.bf788b6f8e15e33ff50d.png",
+    "static/media/Man-1.png": "/Pixconn/static/media/Man-1.773054a595f8c2c63999.png",
+    "static/media/mobile-design.png": "/Pixconn/static/media/mobile-design.fccb3b6ba2b73b0a6232.png",
+    "static/media/front-main-img.png": "/Pixconn/static/media/front-main-img.210912a703d650df4d70.png",
+    "static/media/people-small1.png": "/Pixconn/static/media/people-small1.6a2513a1307f5acd4583.png",
+    "static/media/Mont-Regular.otf": "/Pixconn/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-Bold.otf": "/Pixconn/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/people-small2.png": "/Pixconn/static/media/people-small2.6d14659e41f9cb4acaeb.png",
+    "static/media/creative-logos.png": "/Pixconn/static/media/creative-logos.a949c66be4cdda51b1df.png",
+    "static/media/web-design.png": "/Pixconn/static/media/web-design.2804e60a2b1ef554f5b3.png",
+    "static/media/footer-logo.png": "/Pixconn/static/media/footer-logo.2d81da97c7501182a0b2.png",
+    "static/media/Group 926.png": "/Pixconn/static/media/Group 926.39d6889a82b4b9a0468b.png",
+    "static/media/Pixconn-Logo.png": "/Pixconn/static/media/Pixconn-Logo.9b600c6172f98276abc0.png",
+    "index.html": "/Pixconn/index.html",
+    "main.5e5b6e40.css.map": "/Pixconn/static/css/main.5e5b6e40.css.map",
+    "main.5da0f581.js.map": "/Pixconn/static/js/main.5da0f581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5b6e40.css",
+    "static/js/main.5da0f581.js"
+  ]
+}
