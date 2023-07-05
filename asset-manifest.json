@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pixconn/static/css/main.5e5b6e40.css",
-    "main.js": "/Pixconn/static/js/main.5da0f581.js",
+    "main.css": "/Pixconn/static/css/main.417d228f.css",
+    "main.js": "/Pixconn/static/js/main.61f3dd7b.js",
     "static/media/people-blur.png": "/Pixconn/static/media/people-blur.bf788b6f8e15e33ff50d.png",
     "static/media/Man-1.png": "/Pixconn/static/media/Man-1.773054a595f8c2c63999.png",
     "static/media/mobile-design.png": "/Pixconn/static/media/mobile-design.fccb3b6ba2b73b0a6232.png",
@@ -16,11 +16,11 @@
     "static/media/Group 926.png": "/Pixconn/static/media/Group 926.39d6889a82b4b9a0468b.png",
     "static/media/Pixconn-Logo.png": "/Pixconn/static/media/Pixconn-Logo.9b600c6172f98276abc0.png",
     "index.html": "/Pixconn/index.html",
-    "main.5e5b6e40.css.map": "/Pixconn/static/css/main.5e5b6e40.css.map",
-    "main.5da0f581.js.map": "/Pixconn/static/js/main.5da0f581.js.map"
+    "main.417d228f.css.map": "/Pixconn/static/css/main.417d228f.css.map",
+    "main.61f3dd7b.js.map": "/Pixconn/static/js/main.61f3dd7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e5b6e40.css",
-    "static/js/main.5da0f581.js"
+    "static/css/main.417d228f.css",
+    "static/js/main.61f3dd7b.js"
   ]
 }
