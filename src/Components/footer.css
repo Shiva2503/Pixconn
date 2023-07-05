@@ -1,0 +1,12 @@
+
+.footer-logo > img{
+    height: 45px;
+}
+
+.foot-nav-item, .copy-rights{
+    font-family: mont-regular;
+}
+
+.foot-nav-item{
+    text-decoration: none;
+}
